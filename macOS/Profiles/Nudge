@@ -35,7 +35,7 @@
 	<key>userInterface</key>
 	<dict>
 		<key>actionButtonPath</key>
-		<string>/System/Library/PreferencePanes/SoftwareUpdate.prefPane</string>
+		<string>/System/Library/CoreServices/Software Update.app</string>
 		<key>iconDarkPath</key>
 		<string>/Library/Application Support/Logos/dark.png</string>
 		<key>iconLightPath</key>
